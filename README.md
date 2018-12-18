@@ -1,6 +1,6 @@
 # ADBD-ejercicios
 Contiene los ejercicios de Analisis y Diseño de Bases de Datos del curso 2018-19 de la Universidad de Valladolid.
-Se ha intentado utilizar la versión SQL-92 añadiendo de otras versiones unicamente la cláusula WITH.
+Se ha intentado utilizar la versión SQL-92 añadiendo de otras versiones unicamente la cláusula WITH. Han sido comprobados con MySQL y PostgreSQL.
 En ambas carpetas se pueden encontrar varias cosas:
 ## \*.pdf
 Contiene la estructura utilizada en la base de datos, el enunciado de los ejercicios y las soluciones dadas en la asignatura
