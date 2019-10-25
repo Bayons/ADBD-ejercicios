@@ -1,0 +1,56 @@
+// Enunciados copiados de https://github.com/chivi94/Examen-ADBD-18-19/blob/master/enunciados_consultas.txt
+// Autor: chivi94
+
+1 -- Titulares (nombre) con licencias activas
+
+2 -- Historial de licencias de un puesto dado. Ej: Puesto 2
+
+3 --  Número de licencias que ha tenido cada puesto, incluyendo las activas.
+
+4 -- Número de licencias que ha tenido cada puesto, sin incluir las activas.
+
+5 -- Titulares (nombre) actuales sin ninguna sanción en sus concesiones actuales.
+
+6 -- Los 5 titulares actuales (nombre) con más sanciones.
+
+7 -- Historial de todos los puestos(nro, fechaI, fechaF, nombre_titular) ordenado en orden descendente por número de Puesto
+     y en orden ascendente por fechaI ( los puestos están numerados del 1 al 10).
+     
+8 -- Titulares con sancion en el año 2011.
+
+9 -- Puesto con mas sanciones.
+
+10 -- Titular(es) que más puestos distintos han tenido.
+
+11 -- 5 Concesiones finalizadas más largas y titular de cada una
+
+12 -- Sanciones entre 2000 y 2010 con el nombre del titular, ref de la sanción, y fecha 
+
+13 -- Titulares sin ninguna sanción
+
+14 -- Cantidad total pagada en sanciones por cada titular
+
+15 -- Cantidad media pagada en sanciones por cada titular
+
+16 -- Concesión o concesiones más largas
+
+17 -- Persona/s (dni, nombre) que al menos han tenido 2 infracciones.
+ 
+18 -- Tipo de puesto y numero del que hay un mayor número actualmente.
+      Los tipos de puesto son: FRU', 'ALI', 'CAR', 'ELE' ó 'ULT'.
+
+19 -- Tipo puesto, numero, porcentaje del total ( sólo los puestos actuales).
+     Los tipos de puesto son: FRU', 'ALI', 'CAR', 'ELE' ó 'ULT'.
+
+20 -- Tipo de puesto, numero y porcentaje del que hay un mayor número actualmente.
+      Los tipos de puesto son: FRU', 'ALI', 'CAR', 'ELE' ó 'ULT'.
+
+21 -- Puesto (nro) que más tiempo ha sido una frutería ('FRU') en toda la historia del mercado.
+
+22 -- Porcentaje de puestos de cada tipo (FRU', 'ALI', 'CAR', 'ELE' ó 'ULT') actuales sin contar los vacíos.
+
+23 -- Tasa de sanciones por puesto (numero de sanciones / numero de puestos) por año, entre 2000 y 2010.
+
+24 -- Puesto que ha sido más tipos de establecimientos distintos (FRU', 'ALI', 'CAR', 'ELE' ó 'ULT') a lo largo de la historia del mercado.
+
+25 -- Titulares(nombre) actuales que nunca en la historia del mercado  han sido titulares de una frutería 'FRU'
